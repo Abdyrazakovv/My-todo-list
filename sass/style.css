@@ -150,6 +150,7 @@
   box-shadow: none;
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
+  background-color: aquamarine;
 }
 
 .form-control:focus {
